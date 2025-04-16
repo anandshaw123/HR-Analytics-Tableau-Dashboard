@@ -2,17 +2,13 @@
 
 
 
-![HR Analytics](https://github.com/user-attachments/assets/96ac07f5-193a-49e4-9b0d-546edae6e95b)
+
+![HR](https://github.com/user-attachments/assets/fe9f11da-1c50-4c34-a956-410bb46a1e32)
 
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-![Marketing & Sales Performance](https://github.com/user-attachments/assets/d5d5fde7-e8a5-4794-b4db-c457ec2edf9f)
 
 
 
@@ -60,11 +56,6 @@
 9. Enhanced Communication Skills.
 
 
-
-
-## 📈 Dashboard
-
-![HR Analytics Dashboard](https://github.com/user-attachments/assets/8ce653f5-b20a-404d-9d8a-ac1ff87d8f44)
 
 
 
