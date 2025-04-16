@@ -21,9 +21,10 @@
 
 ## 🛠️ Tools Used
 
-- **Analytical & Visual:** Tableau, SQL
+- **Analytical & Visual:** Tableau
 
 <img width="96" height="96" src="https://img.icons8.com/color/144/tableau-software.png" alt="Tableau Icon"/>
+SQL
 <img width="96" height="96" src="https://img.icons8.com/ios-filled/150/000000/sql.png" alt="SQL Icon"/>
 
 
