@@ -16,8 +16,13 @@
 
 ## 🎯Problem Statement
 
+ - The company is facing a high attrition rate of 16.99%, especially in the Sales department and among employees with Life Sciences backgrounds. This dashboard aims to identify key patterns in employee turnover by analyzing factors like age, gender, department, education, and job satisfaction to help reduce attrition and improve retention strategies.
 
 
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Tools Used
 
