@@ -38,7 +38,7 @@
 - **Data source:** Kaggle
 - **Data size:** 
 - **Key columns:** 
-- **Data set Link:** ([Marketing & Sales Performance Data]())
+- **Data set Link:** ([HR](https://github.com/anandshaw123/HR-Analytics-Tableau-Dashboard/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv))
 
 
 
@@ -60,7 +60,6 @@
 6. Data Storytelling.
 7. Sharpened Analytical and Problem-Solving Abilities.
 8. Strengthened Strategic Planning and Presentation Skill.
-9. Enhanced Communication Skills.
 
 
 
