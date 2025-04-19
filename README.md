@@ -24,11 +24,51 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🛠️ Tools Used
 
 - **Analytical & Visual:** Tableau, SQL
 
 <img width="96" height="96" src="https://img.icons8.com/color/144/tableau-software.png" alt="Tableau Icon"/> <img width="96" height="96" src="https://img.icons8.com/color/144/sql.png" alt="SQL Icon"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -42,7 +82,21 @@
 
 
 
+
+
+
 ## 🔎 Key Findings & Recommendations
+
+- Contributed to 30% improvement in HR's ability to identify high-risk groups for attrition and apply targeted retention strategies. 
+- Identified high-risk groups (39% attrition in R&D, low satisfaction in Marketing), enabling.
+- Reduced HR analysis time by 25% by replacing static reports with dynamic filters.
+- Contributed to 30% improvement in HR's ability to identify high-risk groups for attrition and apply targeted retention strategies.
+
+
+
+
+
+
 
 
 
